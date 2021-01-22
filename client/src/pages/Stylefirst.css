@@ -1,0 +1,20 @@
+.sfirst{
+    margin-top: 20px;
+    background-color: #f1f7f6;
+    padding:  20px;
+}
+.main-head{
+    text-align: center;
+    font-weight: 800;
+    /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
+    color: #00856f;
+}
+.shead{
+    color: rgba(15, 122, 12, 0.836);
+
+}
+.entire-page{
+    margin-top: 20px;
+    background-color: #f1f7f6;
+    padding:  20px;
+}
